@@ -1,0 +1,1 @@
+This was an ongoing project initially coded by General Assembly and updated by me throughout their Software Engineering Immersive pre-course work. The application was built using Codepen. The original exercise didn't call for any kind of styling, so that will be created shortly.
